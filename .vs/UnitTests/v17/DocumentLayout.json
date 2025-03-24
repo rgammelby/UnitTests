@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\authservicefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\authservicefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\factories\\customerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\factories\\customerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\interfaces\\ibankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\interfaces\\ibankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\interfaces\\ibankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\interfaces\\ibankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BE296A-8460-4B09-AD2E-9D47F23DDCB3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6073F90-8AAE-4118-AFF5-847BE0AE9C28}|UnitTests.Tests\\UnitTests.Tests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests.tests\\tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6073F90-8AAE-4118-AFF5-847BE0AE9C28}|UnitTests.Tests\\UnitTests.Tests.csproj|solutionrelative:unittests.tests\\tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6073F90-8AAE-4118-AFF5-847BE0AE9C28}|UnitTests.Tests\\UnitTests.Tests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests.tests\\tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6073F90-8AAE-4118-AFF5-847BE0AE9C28}|UnitTests.Tests\\UnitTests.Tests.csproj|solutionrelative:unittests.tests\\tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6073F90-8AAE-4118-AFF5-847BE0AE9C28}|UnitTests.Tests\\UnitTests.Tests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests.tests\\tests\\featuretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6073F90-8AAE-4118-AFF5-847BE0AE9C28}|UnitTests.Tests\\UnitTests.Tests.csproj|solutionrelative:unittests.tests\\tests\\featuretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6073F90-8AAE-4118-AFF5-847BE0AE9C28}|UnitTests.Tests\\UnitTests.Tests.csproj|c:\\users\\rfj594\\source\\repos\\unittests\\unittests.tests\\tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6073F90-8AAE-4118-AFF5-847BE0AE9C28}|UnitTests.Tests\\UnitTests.Tests.csproj|solutionrelative:unittests.tests\\tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 836,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankController.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Controllers\\BankController.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Controllers\\BankController.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Controllers\\BankController.cs",
+              "RelativeToolTip": "UnitTests\\Controllers\\BankController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:53:40.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "UnitTests\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:53:15.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBankRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Interfaces\\IBankRepository.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Interfaces\\IBankRepository.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Interfaces\\IBankRepository.cs",
+              "RelativeToolTip": "UnitTests\\Interfaces\\IBankRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:53:06.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBankService.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Interfaces\\IBankService.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Interfaces\\IBankService.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Interfaces\\IBankService.cs",
+              "RelativeToolTip": "UnitTests\\Interfaces\\IBankService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:52:52.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Services\\AuthService.cs",
+              "RelativeToolTip": "UnitTests\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:30:24.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Customers\\Customer.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Customers\\Customer.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Customers\\Customer.cs",
+              "RelativeToolTip": "UnitTests\\Customers\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:06:48.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests.Tests\\Tests\\DatabaseTests.cs",
+              "RelativeDocumentMoniker": "UnitTests.Tests\\Tests\\DatabaseTests.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests.Tests\\Tests\\DatabaseTests.cs",
+              "RelativeToolTip": "UnitTests.Tests\\Tests\\DatabaseTests.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAcwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:04:24.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Factories\\CustomerFactory.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Factories\\CustomerFactory.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Factories\\CustomerFactory.cs",
+              "RelativeToolTip": "UnitTests\\Factories\\CustomerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:02:07.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests.Tests\\Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "UnitTests.Tests\\Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests.Tests\\Tests\\Tests.cs",
+              "RelativeToolTip": "UnitTests.Tests\\Tests\\Tests.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAYwN4AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:56:46.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "UnitTests\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:04:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FeatureTests.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests.Tests\\Tests\\FeatureTests.cs",
+              "RelativeDocumentMoniker": "UnitTests.Tests\\Tests\\FeatureTests.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests.Tests\\Tests\\FeatureTests.cs",
+              "RelativeToolTip": "UnitTests.Tests\\Tests\\FeatureTests.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAqwHMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:42:52.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "UnitTests\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:40:04.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthServiceFixture.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\AuthServiceFixture.cs",
+              "RelativeDocumentMoniker": "UnitTests\\AuthServiceFixture.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\AuthServiceFixture.cs",
+              "RelativeToolTip": "UnitTests\\AuthServiceFixture.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:36:58.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests.Tests\\Tests\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "UnitTests.Tests\\Tests\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests.Tests\\Tests\\AuthServiceTests.cs",
+              "RelativeToolTip": "UnitTests.Tests\\Tests\\AuthServiceTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwC0AAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:35:30.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "UnitTests\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:18:36.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Services\\ProfileService.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Services\\ProfileService.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Services\\ProfileService.cs",
+              "RelativeToolTip": "UnitTests\\Services\\ProfileService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:13:58.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\rfj594\\source\\repos\\UnitTests\\UnitTests\\Services\\CustomerService.cs",
+              "RelativeToolTip": "UnitTests\\Services\\CustomerService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA3wEoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:12:35.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
